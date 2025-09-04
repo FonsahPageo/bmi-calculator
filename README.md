@@ -51,4 +51,4 @@ A higher BMI is often associated with an increased risk of health problems, such
 - Input Weight, height and calculate your BMI.
 
 ## Application demo
-- visit a hosted version of the app on GitHub (https://fonsahpageo.github.io/bmicalculator)
+- visit a hosted version of the app on GitHub (https://fonsahpageo.github.io/bmi-calculator/)
