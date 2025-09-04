@@ -77,3 +77,15 @@ input[type="submit"]:hover{
     margin-top: 20px;
     color: #f2f2f2;
 }
+
+#result{
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 500px) {
+    .container{
+        margin: 50px 20px;
+        padding: 20px;
+    }
+}
