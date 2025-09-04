@@ -2,7 +2,7 @@
 
 This simple app helps users calculate their **BMI** (Body Mass Index).
 
-## WHat is BMI?
+## What is BMI?
 
 BMI is a calculation of body fat based on your height and weight, to help screen for potential health risks associated with being underweight, overweight or obese.
 
@@ -20,7 +20,7 @@ A standard formular divides your **weight** in kilograms by your **height** squa
 ## Why is it used?
 
 - BMI is a quick and simple way to determine if your weight is within a healthy range for your height. 
-- Though a very useful tool, it doesn't account for muscle mass, bone density or boy fat distrubution therfore should be used alongside other health factors and professional medical advice.
+- Though a very useful tool, it doesn't account for muscle mass, bone density or body fat distrubution therfore should be used alongside other health factors and professional medical advice.
 
 ## Health Risk Assessment
 
